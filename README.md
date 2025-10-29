@@ -1,13 +1,13 @@
 # Shift_Cipher
 
-##Description
+## Description
 C++ program that implements shift cipher, one the must used substitution ciphers.
 
-##Characteristics:
+## Characteristics:
 The program has 3 usage options:
 - English alphabeth (uppercase)
 - Printable ASCII
 - Random alphabet
 
-##Compilation
+## Compilation
 g++ shiftcipher.cpp -o shiftcipher
